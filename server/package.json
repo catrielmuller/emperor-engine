@@ -1,0 +1,15 @@
+{
+  "name": "emperor-engine-server",
+  "version": "1.0.0",
+  "description": "NodeJS Server for Emperor Engine",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Catriel Müller <catrielmuller@gmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}

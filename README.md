@@ -1,2 +1,6 @@
-# emperor-engine
+# Emperor Engine (EE)
 WebGL Game Engine 
+
+## TO-DO
+
+- [ ] Folder Structure
